@@ -1,0 +1,3 @@
+Error:2017-09-28 01:39:51.110160'cp950' codec can't encode character '\uf9f4' in position 181: illegal multibyte sequenceexception in line111
+Error:2017-09-28 01:52:22.140209binary mode doesn't take an encoding argumentexception in line107
+Error:2017-09-28 23:31:24.401992[Errno 13] Permission denied: 'job.csv'exception in line127
